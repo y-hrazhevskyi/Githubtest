@@ -1,1 +1,1 @@
-document.body.innerHTML = "<h1>!!!00000</h1>"
+document.body.innerHTML = "<h1>!!!00000!!!!</h1>"
